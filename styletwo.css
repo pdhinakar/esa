@@ -1,0 +1,55 @@
+
+a{
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 7px 12px;
+  text-align: center;
+  background-color: #5D055D;
+  color: white;
+  margin: 9px 0;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.topnav {
+  margin: 0px;
+  overflow: hidden;
+  background-color:#5D055D;
+  position: relative;
+}
+
+ .topnav #myLinks {
+  display: none;
+  background-color: #5D055D;
+ }
+
+.topnav a {
+color: white;
+padding: 4px 10px;
+text-decoration: none;
+font-size: 20px;
+font-weight: 700;
+display: block;
+}
+
+.topnav a.icon {
+ background: black;
+padding: 12px;
+ display: block;
+ position: absolute;
+ right: 0;
+ top: 0;
+}
+
+.topnav a:hover {
+  color: #fff;
+  opacity: 0.5;
+  font-size: 19px;
+}
+.active {
+background-color:#5D055D;
+color: white;
+}

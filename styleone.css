@@ -1,0 +1,54 @@
+	 h2{
+      color: #5D055D;
+  }
+  h1{
+      color: #5D055D;
+  }
+  input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+ input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #5D055D;
+  color: white;
+  font-size: 20px;
+  padding: 5px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #5D055D;
+}
+
+div {
+  border-radius: 10px;
+  padding: 2px;
+  opacity: 1;
+  border-color:#5D055D;
+  border-radius: 10px;
+}
+label {
+  color: #5D055D;
+  
+}
+
+	
