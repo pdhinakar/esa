@@ -20,7 +20,7 @@
 <h2>About Us</h2>
 
 <p style="font-size: 20px;">
-	<b>This Website is developed by Dhinakar from Computer Science</b>
+	<b>This Website is developed by Dhinakar P from Computer Science</b>
 </p>
 <h2>DESCRIPTION</h2>
 <p style="font-size: 20px;">
